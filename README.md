@@ -7,13 +7,13 @@
 使用pip安装
 
 ```
-$ pip install turbotools
+$ pip install bwh
 ```
 
 或者从源码包安装
 
 ```
-$ git clone https://github.com/anshengme/turbotools
+$ git clone https://github.com/anshengme/bwh
 $ cd turbotools
 $ python setup.py install
 ```
